@@ -46,7 +46,7 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
-##OUTPUT
+OUTPUT
 ![image](https://github.com/user-attachments/assets/1cf6d53a-babc-4140-99ed-609d57269480)
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -101,4 +101,4 @@ int main() {
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/6e8e9a80-a36d-4deb-98b1-5fcb0688c13e)
 ## RESULT:
-The programs are executed successfully.
+The programs has been executed successfully.
